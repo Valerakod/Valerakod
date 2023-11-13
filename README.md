@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="[![Linkedin Badge](https://img.shields.io/badge/-Valeriia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valeriia-yemets-441470293/)"/>
+   <a href="https://www.linkedin.com/in/valeriia-yemets-441470293/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
