@@ -27,7 +27,7 @@
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I love coding, studying and now I am looking for job in IT company.
+- :telescope: I love coding, studying and now I am looking for projects in which I can be useful.
   
 - :seedling: Exploring Technical Content Writing.
 
